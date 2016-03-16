@@ -1,0 +1,3 @@
+放入proj.android\src\org\cocos2dx\cpp使用
+可以接收c++传来的消息
+使用ToolJni.sendJniMessage("true", JNI_CHENFU_BAZHINV);发送消息
